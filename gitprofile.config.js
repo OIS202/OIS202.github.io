@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'OIS202', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -11,57 +11,48 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
-    facebook: '',
-    instagram: '',
-    youtube: '', // example: 'pewdiepie'
-    dribbble: '',
-    behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
-    stackoverflow: '', // example: '1/jeff-atwood'
-    skype: '',
-    telegram: '',
-    website: 'https://arifszn.com',
-    phone: '',
-    email: 'arifulalamszn@gmail.com',
+    linkedin: 'omar-shehata-01b3a6206',
+    phone: '+1 514-572-2226',
+    email: 'i.omarshehata@gmail.com',
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/16J5MJDcyGqDeTqtr-RA6roHqvvIY8xXJ/view?usp=drive_link', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
-    'Laravel',
+    'Express.js',
     'JavaScript',
     'React.js',
     'Node.js',
-    'Nest.js',
+    'Passport.js',
     'MySQL',
     'PostgreSQL',
     'Git',
-    'Docker',
-    'PHPUnit',
+    'HTML',
+    'Embedded Javascript (EJS)',
     'CSS',
-    'Antd',
-    'Tailwind',
+    'Linux',
+    'Python',
+    'Numpy',
+    'Pandas',
+    'Seaborn',
+    'Matplotlib',
+    'Sklearn',
+    'Tensorflow',
+    'Java',
+    'C',
+    'C++',
+    'Clojure',
+    'Next.js',
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
-    },
-    {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'BRP (Bombardier Recreational Products',
+      position: 'Data Governance Intern ',
+      from: 'January 2023',
+      to: 'November 2023',
+      companyLink: 'https://brp.com',
     },
   ],
   /* certifications: [
@@ -74,32 +65,26 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Concordia University',
+      degree: 'Software Engineering',
+      from: '2020',
+      to: '2025',
     },
   ],
 
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'YelpCamp',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'Employing Express.js for the backend and crafting a frontend with Embedded JavaScript, HTML, and CSS. Utilized MongoDB and implemented Joi Schemas to establish robust form validation and data storage.Designed and implemented a robust authorization and authentication framework leveraging Passport.js to enhance system security and user authentication processes.',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },
     {
-      title: 'Project Name',
+      title: 'Warzone',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'Leveraged pointers and employed STL containers, including vectors, to implement diverse game features such as maps, orders, and commands. Applied an MVC design pattern to systematically separate concerns and modularize autonomous code components. Utilized inheritance to promote code reusability and enhance specificity in design implementation.',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },
