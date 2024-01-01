@@ -78,21 +78,21 @@ const config = {
       title: 'YelpCamp',
       description:
         'Employing Express.js for the backend and crafting a frontend with Embedded JavaScript, HTML, and CSS. Utilized MongoDB and implemented Joi Schemas to establish robust form validation and data storage.Designed and implemented a robust authorization and authentication framework leveraging Passport.js to enhance system security and user authentication processes.',
-      imageUrl: 'https://via.placeholder.com/250x250',
+      imageUrl: '',
       link: 'https://example.com',
     },
     {
       title: 'Warzone',
       description:
         'Leveraged pointers and employed STL containers, including vectors, to implement diverse game features such as maps, orders, and commands. Applied an MVC design pattern to systematically separate concerns and modularize autonomous code components. Utilized inheritance to promote code reusability and enhance specificity in design implementation.',
-      imageUrl: 'https://via.placeholder.com/250x250',
+      imageUrl: '',
       link: 'https://example.com',
     },
     {
       title: 'Music Database',
       description:
         'Utilized Axios for efficient communication with the MusixMatch API, seamlessly integrated with Node.js for code optimization. Implemented a pool connection object in Node.js to establish a remote connection to our local PostgreSQL instance. Designed and populated multiple tables through Data Definition Language (DDL), organizing data retrieved from API calls. Executed data queries, incorporating select statements with join, where, and having clauses to generate insightful reports as per project requirements.',
-      imageUrl: 'https://via.placeholder.com/250x250',
+      imageUrl: '',
       link: 'https://example.com',
     },
   ],
