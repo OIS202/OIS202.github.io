@@ -79,7 +79,7 @@ const config = {
       description:
         'Employing Express.js for the backend and crafting a frontend with Embedded JavaScript, HTML, and CSS. Utilized MongoDB and implemented Joi Schemas to establish robust form validation and data storage.Designed and implemented a robust authorization and authentication framework leveraging Passport.js to enhance system security and user authentication processes.',
       imageUrl: '',
-      link: '',
+
     },
     {
       title: 'Warzone',
